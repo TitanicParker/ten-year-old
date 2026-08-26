@@ -26,7 +26,10 @@ title: Pixels of Clarity
 13. [Every Box Can Speak](https://titanicparker.github.io/persistence/pixels-of-clarity/chapter-13/)
 14. [The Hard Boxes](https://titanicparker.github.io/persistence/pixels-of-clarity/chapter-14/)
 15. [Sometimes There Is No Box Yet](https://titanicparker.github.io/persistence/pixels-of-clarity/chapter-15/)
+16. [Clear Does Not Mean True](https://titanicparker.github.io/persistence/pixels-of-clarity/chapter-16/)
+17. [Take It Outside](https://titanicparker.github.io/persistence/pixels-of-clarity/chapter-17/)
+18. [The Bag Comes Back](https://titanicparker.github.io/persistence/pixels-of-clarity/chapter-18/)
 
 ---
 
-*The book is still unfolding.*
+**Complete — 18 chapters.**
