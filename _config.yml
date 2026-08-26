@@ -1,0 +1,19 @@
+title: Pixels of Clarity
+description: A discovery-based book about learning to see structure in things you already understand.
+url: https://titanicparker.github.io
+baseurl: /ten-year-old
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/social-preview.svg
